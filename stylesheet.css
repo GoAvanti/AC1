@@ -97,11 +97,10 @@ text-align: left;
 }
 
 .hero {
-  background-color: #999999;
+  background-color: #ffffff;
   padding: 0 90px; 
 margin-right: -10px;
   margin-left: -10px;
-
   padding-top: 13px;  
 }
 
@@ -136,7 +135,12 @@ padding-right: 40px;
 .list-inline-item {
  display: inline;
 text-align: center;
-  text-position: center;
+text-position: center;
 font-family: arabic;
  font-size: 20px; 
+}
+
+.page-footer font-small stylish-color-dark pt-4 mt-4 {
+ padding-top: 30px; 
+ margin-top: 30px;    
 }
