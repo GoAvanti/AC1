@@ -12,9 +12,9 @@ https://stackoverflow.com/questions/23400234/centering-brand-logo-in-bootstrap-3
     }
 }
 
-
 .nav .active {
-margin-right: 12px;  
+margin-right: 12px; 
+  
 }
 
 .duck {
@@ -105,4 +105,38 @@ margin-right: -10px;
   padding-top: 13px;  
 }
 
+.list-inline-item1 {
+display: inline;
+list-style-type: none;
+margin-left: 48%;
+margin-right: -49%;   
+padding-left: 0px;
+padding-right: 40px;  
+}
 
+
+.icons {
+display: inline;
+list-style-type: none;
+margin-left: -45%;
+margin-right: -49%;   
+padding-left: 0px;
+padding-right: 40px;     
+}
+
+.tweets {
+display: inline;
+list-style-type: none;
+margin-left: 49%;
+margin-right: -49%;   
+padding-left: 0px;
+padding-right: 40px;     
+}
+
+.list-inline-item {
+ display: inline;
+text-align: center;
+  text-position: center;
+font-family: arabic;
+ font-size: 20px; 
+}
