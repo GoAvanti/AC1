@@ -135,8 +135,19 @@ padding-right: 40px;
 .list-inline-item {
  display: inline;
 text-align: center;
-text-position: center;
 font-family: arabic;
  font-size: 20px; 
 }
+
+
+.complex {
+display: inline;
+list-style-type: none;
+    text-align: center;
+  margin-left: 41%;
+margin-right: -48%;   
+padding-left: 0px;
+padding-right: 40px;
+}
+
 
